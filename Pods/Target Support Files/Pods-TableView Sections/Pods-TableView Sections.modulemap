@@ -1,0 +1,6 @@
+framework module Pods_TableView_Sections {
+  umbrella header "Pods-TableView Sections-umbrella.h"
+
+  export *
+  module * { export * }
+}
